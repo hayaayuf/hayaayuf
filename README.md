@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/Ze6cM4zaALNjHFKrQV" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/hayaayuf/)">
@@ -13,8 +13,10 @@
   hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-### About
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+### :woman_technologist: About Me :
 Haya is an enthusiastic, data-driven and passionate Engineering Graduate. Proven experience on using Python as main programming language. Seeking opportunity to gain experience in Data Analytics, Data Visualization, Data Science, Machine Learning, and Artificial Intelligence. She is a motivated team player and inspired by tough problems.
 
 ### Skills
