@@ -22,8 +22,8 @@
 I'm an enthusiastic, data-driven and passionate Engineering Graduate.
 - :telescope: I’m seeking opportunity to gain experience in Data Analytics, Data Visualization, Data Science, Machine Learning, and Artificial Intelligence.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hayaayuf/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayaayuf/)
 
-### Skills
+### Language and Tools
 
 ### Contacts
