@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/EngtalMarketing-women-in-tech-working-Ze6cM4zaALNjHFKrQV" width="100"/>
+  <img src="https://media.giphy.com/media/Ze6cM4zaALNjHFKrQV/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/hayaayuf/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,6 +17,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: About Me :
 Haya is an enthusiastic, data-driven and passionate Engineering Graduate. Proven experience on using Python as main programming language. Seeking opportunity to gain experience in Data Analytics, Data Visualization, Data Science, Machine Learning, and Artificial Intelligence. She is a motivated team player and inspired by tough problems.
 
