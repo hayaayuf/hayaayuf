@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/Ze6cM4zaALNjHFKrQV" width="100"/>
+  <img src="https://giphy.com/stickers/EngtalMarketing-women-in-tech-working-Ze6cM4zaALNjHFKrQV" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/hayaayuf/)">
