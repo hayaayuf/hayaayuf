@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/hayaayuf/)">
+  <a href="https://www.linkedin.com/in/hayaayuf/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-medium-URL](https://medium.com/@fauziyyahhaya)">
+  <a href="https://medium.com/@fauziyyahhaya">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
