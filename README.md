@@ -32,5 +32,4 @@ I'm an enthusiastic, data-driven and passionate Engineering Graduate.
 
 ### ☎️Find me on :
 - 📥 hayaayuf@gmail.com
-- 📲 087883687843
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayaayuf/)
