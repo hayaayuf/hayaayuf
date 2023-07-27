@@ -18,8 +18,7 @@
 ### :woman_technologist: About Me :
 I'm an enthusiastic, data-driven and passionate Engineering Graduate.
 - :telescope: I’m seeking opportunity to gain experience in Data Analytics, Data Visualization, Data Science, Machine Learning, and Artificial Intelligence.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayaayuf/)
+- :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,3 +30,7 @@ I'm an enthusiastic, data-driven and passionate Engineering Graduate.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
+### ☎️Find me on :
+- 📥 hayaayuf@gmail.com
+- 📲 087883687843
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayaayuf/)
