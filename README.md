@@ -30,6 +30,6 @@ I'm an enthusiastic, data-driven and passionate Engineering Graduate.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
-### ☎️Find me on :
+### ☎️ Find me on :
 - 📥 hayaayuf@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayaayuf/)
