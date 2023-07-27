@@ -14,9 +14,6 @@
   hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
-</div>
 
 ### :woman_technologist: About Me :
 I'm an enthusiastic, data-driven and passionate Engineering Graduate.
